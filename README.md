@@ -1,7 +1,7 @@
 Orthog-Transforms
 =================
 
-C++ functions for DCT-II, Haar, Fast Walsh, Parametric Slant Transforms
+C++ functions for DCT-II, Haar, Fast Walsh, Parametric Slant Transforms used in OpenCV v 2.4.7
 
 C++ .hpp files include Discrete Cosine Transform (DCT-II), Fast Walsh Hadamard Transform (FWT), Haar Transform, Parametric Slant Transform
 
